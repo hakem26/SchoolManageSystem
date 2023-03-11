@@ -1,0 +1,47 @@
+CREATE TABLE [dbo].[StudentsTbl] (
+    [StuId]      INT           IDENTITY (1, 1) NOT NULL,
+    [StuName]    VARCHAR (50)  NOT NULL,
+    [StuGender]  VARCHAR (50)  NOT NULL,
+    [StuDOB]     DATE          NOT NULL,
+    [StuClass]   VARCHAR (50)  NOT NULL,
+    [StuFees]    INT           NOT NULL,
+    [StuAddress] VARCHAR (100) NOT NULL,
+    PRIMARY KEY CLUSTERED ([StuId] ASC)
+)
+
+CREATE TABLE [dbo].[TeachersTbl] (
+    [TchrId]     INT           IDENTITY (1, 1) NOT NULL,
+    [TchrName]   VARCHAR (50)  NOT NULL,
+    [TchrGender] VARCHAR (50)  NOT NULL,
+    [TchrDOB]    DATE          NOT NULL,
+    [TchrSubject] VARCHAR (50)  NOT NULL,
+    [TchrPhone]   VARCHAR (13)  NOT NULL,
+    [TchrAddress] VARCHAR (100) NOT NULL,
+    PRIMARY KEY CLUSTERED ([TchrId] ASC)
+)
+
+CREATE TABLE [dbo].[FeesTbl] (
+    [PayId]   INT          IDENTITY (1, 1) NOT NULL,
+    [StuId]   INT          NOT NULL,
+    [StuName] VARCHAR (50) NOT NULL,
+    [Month]   VARCHAR (50) NOT NULL,
+    [Amount]  INT          NOT NULL,
+    PRIMARY KEY CLUSTERED ([PayId] ASC)
+)
+
+CREATE TABLE [dbo].[EventsTbl]
+(
+	[EduId] INT NOT NULL  PRIMARY KEY IDENTITY,
+	[EduDesc] VARCHAR(50) NOT NULL,
+	[EduDate] DATE NOT NULL,
+	[EduDuration] VARCHAR(50) NOT NULL
+)
+
+CREATE TABLE [dbo].[AttendanceTble]
+(
+	[AttNum] INT NOT NULL  PRIMARY KEY IDENTITY,
+	[AttStId] INT NOT NULL,
+	[AttStName] VARCHAR(50) NOT NULL,
+	[AttDate] DATE NOT NULL,
+	[AttStatus] VARCHAR(50) NOT NULL
+)

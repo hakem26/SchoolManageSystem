@@ -1,0 +1,98 @@
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\bin\Debug\School Management System.exe.config
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\bin\Debug\School Management System.exe
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\bin\Debug\School Management System.pdb
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\bin\Debug\Bunifu_UI_v1.52.dll
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Splash.resources
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.exe
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.pdb
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+E:\hkm\PG\CSharp\projects\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.MainMenu.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.MainMenu.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Splash.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Students.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Teachers.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Attendance.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Fees.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Events.resources
+C:\Users\HaKeMo26\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+H:\school management system\SMS VS\School Management System\School Management System\bin\Debug\School Management System.exe.config
+H:\school management system\SMS VS\School Management System\School Management System\bin\Debug\School Management System.exe
+H:\school management system\SMS VS\School Management System\School Management System\bin\Debug\School Management System.pdb
+H:\school management system\SMS VS\School Management System\School Management System\bin\Debug\Bunifu_UI_v1.52.dll
+H:\school management system\SMS VS\School Management System\School Management System\bin\Debug\Guna.UI.dll
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Attendance.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Events.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Fees.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.MainMenu.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Splash.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Students.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School_Management_System.Teachers.resources
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.exe
+H:\school management system\SMS VS\School Management System\School Management System\obj\Debug\School Management System.pdb
+D:\School Management System\School Management System\bin\Debug\School Management System.exe.config
+D:\School Management System\School Management System\bin\Debug\School Management System.exe
+D:\School Management System\School Management System\bin\Debug\School Management System.pdb
+D:\School Management System\School Management System\bin\Debug\Guna.UI.dll
+D:\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+D:\School Management System\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Attendance.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Events.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Fees.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.MainMenu.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Splash.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Students.resources
+D:\School Management System\School Management System\obj\Debug\School_Management_System.Teachers.resources
+D:\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+D:\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+D:\School Management System\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+D:\School Management System\School Management System\obj\Debug\School Management System.exe
+D:\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Attendance.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Events.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Fees.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.MainMenu.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Splash.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Students.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School_Management_System.Teachers.resources
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\HaKeMo26\Desktop\projects\C#\School Management System\School Management System\obj\Debug\School Management System.pdb
